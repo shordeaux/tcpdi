@@ -15,7 +15,7 @@ Link package in composer.json, e.g.
 ```json
 {
     "require": {
-        "propa/tcpdi": "dev-master"
+        "jtripper/tcpdi": "dev-master"
     }
 }
 ```
